@@ -28,7 +28,8 @@ body{
     font-size: 5rem;
     text-align: left;
     border: none;
-    background-color:hsl(300, 13%, 23%)
+    background-color:hsl(300, 13%, 23%);
+    color:white;
 }
 button{
     width: 100px;
